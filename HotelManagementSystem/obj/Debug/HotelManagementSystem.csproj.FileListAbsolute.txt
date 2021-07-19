@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.AddEditRoomForm.resources
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.AddEditGuestForm.resources
+C:\Users\Dell\Desktop\Baze projekat\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.AddEditReseravtionForm.resources
